@@ -1,0 +1,15 @@
+/* .card-footer{
+    background-color: transparent;
+    border-top: none;
+} */
+.icon-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.bi{
+    color: #0c8ce7;
+}
+.profile{
+   margin-top: -65px;
+}
